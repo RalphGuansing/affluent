@@ -1,0 +1,21 @@
+picture{
+    height: 100;
+}
+
+h1 {
+                text-align: center;
+                color: white;
+                line-height: 100px;
+                margin: 0;
+            }
+
+
+header {
+                position:absolute;
+                bottom: 0;
+                background-color: cadetblue;
+                height: 40px;
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+}
